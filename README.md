@@ -9,7 +9,7 @@ As a passionate software engineer, I am dedicated to continuously expanding my s
 
 ## About this Software
 - This is a PYTHON GAME using the Pygame framework called "Treasure Hunt Escape".
-The player moves around a maze loke map to collect treasures that pop up randomly on the screen while avoiding monsters that roam around the area. If the monsters catch the player, I life is decrease by one and if the lives gets finished the game ends. The treasure the player collects owes them points.
+The player moves around a maze like map to collect treasures that pop up randomly on the screen while avoiding monsters that roam around the area. If the monsters catch the player, I life is decrease by one and if the lives gets finished the game ends. The treasure the player collects owes them points.
 
 
 ## Purpose for creating this software
