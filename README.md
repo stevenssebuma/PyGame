@@ -1,17 +1,19 @@
 # Overview
 Hello GitHub!
 
-# My Game
+# My Treasure Hunt Escape Game
 
 A Pygame Project.
 
 As a passionate software engineer, I am dedicated to continuously expanding my skills and deepening my understanding of programming and software development. My goal is to create effective, innovative solutions that solve real-world problems. Through ongoing learning and hands-on practice, I aim to improve my coding abilities, explore new technologies, and contribute positively to meaningful projects. This mindset helps me grow as a developer and prepares me to tackle increasingly complex challenges in the tech industry.
 
 ## About this Software
-- This e-commerce web app allows users to browse, search, and purchase products online. It features product listings with images and prices, a shopping cart, secure checkout, and making orders. It offers the ability to delete and add from the cart.
+- This is a PYTHON GAME using the Pygame framework called "Treasure Hunt Escape".
+The player moves around a maze like map to collect treasures that pop up randomly on the screen while avoiding monsters that roam around the area. If the monsters catch the player, I life is decrease by one and if the lives gets finished the game ends. The treasure the player collects owes them points.
+
 
 ## Purpose for creating this software
-- The purpose of creating this e-commerce web app is to provide a convenient and efficient platform for users to buy products online
+- The purpose of creating this game is to offer entertainment to those who would like to venture into mesmerizing enviroment of games.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -19,23 +21,17 @@ As a passionate software engineer, I am dedicated to continuously expanding my s
 
 # Development Environment
 
-- Virtual Studio Code
-- Flutter
-- Dart
-- Swift
-- C++
+- Python
+- Pygame
 
 # Useful Websites
 
-* [Flutter Doc Site](https://docs.flutter.dev/)
+* [Pygame Site](https://www.pygame.org/)
 * [Learn Python](https://www.learnpython.org/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Lab: Write your first Pygame game](https://www.pygame.org/news)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
 
 
 
